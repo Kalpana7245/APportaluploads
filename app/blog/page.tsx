@@ -23,7 +23,7 @@ export default function BlogList() {
           {/* Hero Image without animation */}
           <div className="relative w-full h-[200px] sm:h-[300px] md:h-[400px] lg:h-[450px] overflow-hidden rounded-xl shadow-2xl">
             <Image
-              src="/blog.jpg"
+              src="/aboutus.png"
               alt="Dashboard Preview"
               fill
               className="object-cover rounded-xl shadow-2xl"
